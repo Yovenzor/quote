@@ -1,0 +1,24 @@
+body {
+      font-family: monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: yellowgreen;
+      color: black;
+      font-weight: 600;
+      font-size: 20px;
+}
+
+p{
+      max-width: 800px;
+}
+
+button{
+      border: 18px;
+      padding: 10px;
+      cursor: pointer;border: 1px solid rgb(44, 48, 52);
+      box-shadow: rgb(41, 148, 255) 4px 4px 0px;
+      border-radius: 16px;
+      transition: box-shadow 0.2s ease 0s, transform 0.2s ease 0s;
+}
